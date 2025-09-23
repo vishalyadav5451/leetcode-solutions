@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [0867-new-21-game](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0867-new-21-game) |
 ## Geometry
 |  |
 | ------- |
@@ -32,4 +33,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0319-bulb-switcher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0867-new-21-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
