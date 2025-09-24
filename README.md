@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0319-bulb-switcher) |
 | [0867-new-21-game](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0867-new-21-game) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [1349-check-if-it-is-a-straight-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 ## Simulation
 |  |
 | ------- |
