@@ -1,17 +1,30 @@
 class Solution {
 public:
     bool canMakeArithmeticProgression(vector<int>& arr) {
-        sort(begin(arr) , end(arr));
-
+        
         int n = arr.size();
+        unordered_set<int> st(begin(arr) , end(arr));
 
-        int d = arr[1] - arr[0] ;
+        int min_el = *min_element (begin(arr) , end(arr)) ; //a
+        int max_el = *max_element (begin(arr) , end(arr)) ; // a+(n-1)d
 
-        for( int i=2; i<n; i++) {
-            
-            if( arr[i] - arr[i-1] != d) 
+        if((max_el - min_el) % ( n-1) != 0) 
+        return false ;
+       
+       int d = (max_el - min_el) / ( n-1) ; 
+
+       int i = 0;
+
+       while( i < n) {
+        
+        int num = min_el + i*d ;
+
+        if(st.find(num)==st.end()) {
             return false;
         }
-        return true ;
+        i++;
+
+       }
+       return true ;
     }
 };
