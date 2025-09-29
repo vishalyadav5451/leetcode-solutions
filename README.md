@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0587-erect-the-fence](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [0867-new-21-game](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0867-new-21-game) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Geometry
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0867-new-21-game) |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,4 +59,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union Find
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
