@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0050-powx-n) |
 | [0149-max-points-on-a-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0168-excel-sheet-column-title](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0319-bulb-switcher) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0050-powx-n) |
+## String
+|  |
+| ------- |
+| [0168-excel-sheet-column-title](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 <!---LeetCode Topics End-->
