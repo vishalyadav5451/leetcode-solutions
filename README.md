@@ -97,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
