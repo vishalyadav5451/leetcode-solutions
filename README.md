@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0149-max-points-on-a-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0283-move-zeroes](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0587-erect-the-fence](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -110,4 +111,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
