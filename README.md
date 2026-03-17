@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0242-valid-anagram](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Divide and Conquer
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Database
 |  |
 | ------- |
