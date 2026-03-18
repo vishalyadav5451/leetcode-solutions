@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0587-erect-the-fence](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [0867-new-21-game](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0867-new-21-game) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Database
 |  |
