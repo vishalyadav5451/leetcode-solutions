@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
+| [0231-power-of-two](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0319-bulb-switcher](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0319-bulb-switcher) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
