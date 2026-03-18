@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0283-move-zeroes](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0587-erect-the-fence](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0587-erect-the-fence) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0258-add-digits](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0258-add-digits) |
