@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0796-rotate-string](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Database
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0231-power-of-two) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
