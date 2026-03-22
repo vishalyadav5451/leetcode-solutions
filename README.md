@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0056-merge-intervals](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0066-plus-one) |
 | [0149-max-points-on-a-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0283-move-zeroes](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Divide and Conquer
