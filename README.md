@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0231-power-of-two) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
