@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0587-erect-the-fence) |
 | [0867-new-21-game](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0867-new-21-game) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1349-check-if-it-is-a-straight-line) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0867-new-21-game](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0867-new-21-game) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/vishalyadav5451/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
